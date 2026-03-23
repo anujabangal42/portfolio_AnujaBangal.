@@ -3,8 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and experience.
 
 ## 🚀 Live Projects
-- https://cortexcrew.onrender.com  
-- https://edutech-2.onrender.com  
+- https://portfolio-anuja-bangal.vercel.app/ 
 
 ## 🛠️ Technologies Used
 - HTML  
